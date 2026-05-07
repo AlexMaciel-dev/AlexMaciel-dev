@@ -42,9 +42,15 @@ Status: Evoluindo constantemente 🚀
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexmaciel-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&icon_color=00F7FF&text_color=c9d1d9"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexmaciel-dev&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexmaciel-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&text_color=c9d1d9"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alexmaciel-dev&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alexmaciel-dev&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alexmaciel-dev&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alexmaciel-dev&theme=tokyonight"/>
 
 </div>
 
