@@ -32,7 +32,7 @@ Status: Evoluindo constantemente 🚀
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,python,php,js,nodejs,mysql,git,github,vscode,figma" />
+<img src="https://skillicons.dev/icons?i=html,css,python,php,js,cs,mysql,git,github,vscode,figma" />
 
 </div>
 
